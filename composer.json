@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/consistency",
+    "name"       : "immediate-media/hoa-consistency",
     "description": "The Hoa\\Consistency library.",
     "type"       : "library",
     "keywords"   : ["library", "consistency", "autoloader", "entity", "flex",
